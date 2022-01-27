@@ -5,3 +5,5 @@
 Two in the main. The java file is the source code that implements this functionality, and the two are written with different ideas, but both are implemented using the abstract class. Theoretically, the .java of Graphical calculations2 would be better (with a smaller volume) but the graphical calculations in main .exe use graphical calculations. Java compiled.
 
 Variables of type int are used, so decimals cannot be entered (`otherwise an error will occur`)
+
+In addition, I put in a jar file, compiled by eclipse
