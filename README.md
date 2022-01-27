@@ -6,4 +6,4 @@ Two in the main. The java file is the source code that implements this functiona
 
 Variables of type int are used, so decimals cannot be entered (`otherwise an error will occur`)
 
-In addition, I put in a jar file, compiled by eclipse
+In addition, I also put in a jar file, by Graphic calculations. Java made, eclipse compiled
